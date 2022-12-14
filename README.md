@@ -1,4 +1,9 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Marvin Ruciński =======================================================================================================================================  IT Automation Student ---------------------  * 🌍  I'm based in Wrocław, Poland * ✉️  You can contact me at [marvin@prasa-polska.com](mailto:marvin@prasa-polska.com) * 🧠  I'm learning Vue.js
+## Hi 👋 My name is Marvin Ruciński  
+
+IT Automation Student 
+* 🌍  I'm based in Wrocław, Poland 
+* ✉️  You can contact me at [marvin@prasa-polska.com](mailto:marvin@prasa-polska.com) 
+* 🧠  Currently I'm learning Vue.js
 
 ### Skills  
 
