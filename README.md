@@ -2,7 +2,6 @@
 
 IT Automation Student 
 * 🌍  I'm based in Wrocław, Poland 
-* ✉️  You can contact me at [marvin@prasa-polska.com](mailto:marvin@prasa-polska.com) 
 * 🧠  Currently I'm learning Vue.js
 
 ### Skills  
