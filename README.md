@@ -2,7 +2,6 @@
 
 IT Automation Student 
 * 🌍  I'm based in Wrocław, Poland 
-* 🧠  Currently I'm learning Vue.js
 
 ### Skills  
 
