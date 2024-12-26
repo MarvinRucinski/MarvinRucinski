@@ -57,7 +57,7 @@
  
 ### Socials 
 <p align="left"> 
-      <a href="https://www.github.com/MervinDelfin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+      <a href="https://www.github.com/MarvinRucinski" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
       <a href="https://www.stackoverflow.com/users/10039005/marvin-ruciński" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
       <a href="https://www.linkedin.com/in/marvin-rucinski/" target="_blank" rel="noreferrer">
                     <picture>
