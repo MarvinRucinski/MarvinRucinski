@@ -1,10 +1,6 @@
 ## Hi 👋 My name is Marvin Ruciński  
 
-IT Automation Student 
-* 🌍  I'm based in Wrocław, Poland 
-
-
-[My Portfolio](https://mervindelfin.github.io/Portfolio/#/)
+See My Portfolio [Here](https://marvinrucinski.github.io/Portfolio/#/)
 
 ### Skills  
 
