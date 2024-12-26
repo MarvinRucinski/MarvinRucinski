@@ -6,7 +6,7 @@
 * 🖥️  See my portfolio at [marvinrucinski.github.io](https://marvinrucinski.github.io/Portfolio/#/)
 * ✉️  You can contact me on LinkedIn [@marvin-rucinski](https://www.linkedin.com/in/marvin-rucinski/)
 * 🚀  I'm currently working on [Dyżury.app](https://dyżury.app), [polish sign language translator](https://www.linkedin.com/posts/marvin-rucinski_bitehack-robotyka-pwr-activity-7274756520368607233)
-* 🧠  I'm learning Neural Networks
+* 🧠  I'm learning Neural Networks and AI
 
 
 ### I'm working with
