@@ -1,5 +1,4 @@
 # Hi, I'm Marvin  
-
 ## Developer, Student, Innovator
 
 * 🌍  I'm based in Wrocław, Poland
