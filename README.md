@@ -1,4 +1,4 @@
-# Hi 👋 My name is Marvin Ruciński  
+# Hi, I'm Marvin  
 
 ## Developer, Student, Innovator
 
