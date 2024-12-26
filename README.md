@@ -1,6 +1,13 @@
-## Hi 👋 My name is Marvin Ruciński  
+# Hi 👋 My name is Marvin Ruciński  
 
-See My Portfolio [Here](https://marvinrucinski.github.io/Portfolio/#/)
+## Developer, Student, Innovator
+
+* 🌍  I'm based in Wrocław, Poland
+* 🖥️  See my portfolio at [marvinrucinski.github.io](https://marvinrucinski.github.io/Portfolio/#/)
+* ✉️  You can contact me at LinkedIn [@marvin-rucinski](https://www.linkedin.com/in/marvin-rucinski/)
+* 🚀  I'm currently working on [Dyżury.app](https://dyżury.app), [polish sign language translator](https://www.linkedin.com/posts/marvin-rucinski_bitehack-robotyka-pwr-activity-7274756520368607233-Ih-g?utm_source=share) and at [Masterchem Logoplaste](https://www.linkedin.com/company/masterchem-logoplaste-sp-z-o-o/posts/?feedView=all) developing a WMS system.
+* 🧠  I'm learning Neural Networks
+
 
 ### I'm working with
 
@@ -49,7 +56,7 @@ See My Portfolio [Here](https://marvinrucinski.github.io/Portfolio/#/)
 <p align="left"> 
       <a href="https://www.github.com/MervinDelfin" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
       <a href="https://www.stackoverflow.com/users/10039005/marvin-ruciński" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a>
-      <a href="https://www.linkedin.com/in/marvin-ruciński-4bb186187/" target="_blank" rel="noreferrer">
+      <a href="https://www.linkedin.com/in/marvin-rucinski/" target="_blank" rel="noreferrer">
                     <picture>
                     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" />
                     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" />
