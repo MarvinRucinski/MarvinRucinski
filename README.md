@@ -4,8 +4,7 @@
 * 🌍  I'm based in Wrocław, Poland
 * 🖥️  See my portfolio at [marvinrucinski.github.io](https://marvinrucinski.github.io/Portfolio/#/)
 * ✉️  You can contact me on LinkedIn [@marvin-rucinski](https://www.linkedin.com/in/marvin-rucinski/)
-* 🚀  I'm currently working on [Dyżury.app](https://dyżury.app), [polish sign language translator](https://www.linkedin.com/posts/marvin-rucinski_bitehack-robotyka-pwr-activity-7274756520368607233-Ih-g?utm_source=share) and at [Masterchem Logoplaste](https://www.linkedin.com/company/masterchem-logoplaste-sp-z-o-o/posts/?feedView=all) developing a WMS system.
-* 🧠  I'm currently learning Neural Networks and AI
+* 🚀  I'm currently working on [Dyżury.app](https://dyżury.app), [Testownik](https://github.com/Solvro/web-testownik) and at [Masterchem Logoplaste](https://www.linkedin.com/company/masterchem-logoplaste-sp-z-o-o/posts/?feedView=all) developing a WMS system.
 
 
 ### I'm working with
