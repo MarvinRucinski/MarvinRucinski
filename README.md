@@ -1,10 +1,9 @@
 # Hi, I'm Marvin  
-## Developer, Student, Innovator
+## Developer, Innovator, Startuper
 
 * 🌍  I'm based in Wrocław, Poland
-* 🖥️  See my portfolio at [marvinrucinski.github.io](https://marvinrucinski.github.io/Portfolio/#/)
 * ✉️  You can contact me on LinkedIn [@marvin-rucinski](https://www.linkedin.com/in/marvin-rucinski/)
-* 🚀  I'm currently working on [Dyżury.app](https://dyżury.app), [Testownik](https://github.com/Solvro/web-testownik) and at [Masterchem Logoplaste](https://www.linkedin.com/company/masterchem-logoplaste-sp-z-o-o/posts/?feedView=all) developing a WMS system.
+* 🚀  I'm currently working on [RentFriends](https://rentfriends.app).
 
 
 ### I'm working with
